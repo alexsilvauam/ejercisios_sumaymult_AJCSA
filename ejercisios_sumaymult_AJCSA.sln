@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35303.130
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ejercisios_sumaymult_AJCSA", "ejercisios_sumaymult_AJCSA.csproj", "{62DF1AC4-86F1-4BE8-BBA7-1CF45B0691FB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{62DF1AC4-86F1-4BE8-BBA7-1CF45B0691FB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62DF1AC4-86F1-4BE8-BBA7-1CF45B0691FB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62DF1AC4-86F1-4BE8-BBA7-1CF45B0691FB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62DF1AC4-86F1-4BE8-BBA7-1CF45B0691FB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5C69D45E-40D2-414F-84CC-77C1A0B02BEF}
+	EndGlobalSection
+EndGlobal
